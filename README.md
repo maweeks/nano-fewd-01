@@ -1,7 +1,7 @@
 nano-fewd-01
 ============
 
-The first project from the Udacity Front-End Web Developer Nanodegree.
+My submission for the first project from the Udacity Front-End Web Developer Nanodegree.
 
 <b>Image sources:</b>
 
