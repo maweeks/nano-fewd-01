@@ -1,4 +1,4 @@
-nano-fewd-01
+Front-End Web Dev - Project 1
 ============
 
 My submission for the first project from the Udacity Front-End Web Developer Nanodegree.
