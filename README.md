@@ -3,7 +3,7 @@ nano-fewd-01
 
 The first project from the Udacity Front-End Web Developer Nanodegree.
 
-<b>Images used:</b>
+<b>Image sources:</b>
 
 Space invader picture - modified, original sourced from:</br>
 http://fc01.deviantart.net/fs71/f/2011/075/f/6/space_invaders_invader_1_by_daeurth-d3bsqkl.jpg
