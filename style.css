@@ -1,5 +1,4 @@
 /* General */
-
 body {
   color: #312F30;
   font-family: 'lato', sans-serif;
@@ -7,12 +6,11 @@ body {
 }
 
 hr {
-  margin: 5px 0 5px 0;
   border-top: 3px solid #ddd;
+  margin: 5px 0 5px 0;
 }
 
 /* Header */
-
 .title-logo {
   margin-top: 20px;
 }
@@ -22,9 +20,8 @@ hr {
 }
 
 /* Featured projects */
-
-.text-muted {
-  color: #7e7a7b;
+h3 {
+  margin: 10px 0 5px 0;
 }
 
 .project {
@@ -38,16 +35,12 @@ hr {
   margin: 0 auto;
   max-height: 200px;
   opacity: 0.7;
-  /*  Required for IE6-8 but fails validation test.
-  filter: alpha(opacity=70);*/
 }
 
 .project-img:hover {
   opacity: 1.0;
-  /*  Required for IE6-8 but fails validation test.
-  filter: alpha(opacity=100);*/
 }
 
-h3 {
-  margin: 10px 0 5px 0;
+.text-muted {
+  color: #7e7a7b;
 }
