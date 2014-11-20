@@ -11,6 +11,16 @@ hr {
 }
 
 /* Header */
+.no-link {
+  color: #312F30;
+  text-decoration: none;
+}
+
+.no-link:hover {
+  color: #312F30;
+  text-decoration: none;
+}
+
 .title-logo {
   margin-top: 20px;
 }
