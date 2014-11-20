@@ -3,6 +3,8 @@ Front-End Web Dev - Project 1
 
 My submission for the first project from the Udacity Front-End Web Developer Nanodegree.
 
+Can be viewed live here: http://maweeks.github.io/nano-fewd-01
+
 <b>Image sources:</b>
 
 Space invader picture - modified, original sourced from:</br>
